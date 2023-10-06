@@ -2,4 +2,8 @@ amonainternet
 
 Link feito para acesso remoto aos serviços de Redes Sociais, aplicativos, coberturas entre outros 
 
-![image](https://github.com/MarceloMoraes1991/linkamointernet/assets/93011128/0e8c87e2-4373-471b-9d10-cb6e056b9df1)
+![image](https://github.com/AmoInternet/amomusic/assets/146347843/6937af6f-2587-40c6-87ef-8526f3c9be0f)
+
+Para acesso Mobile 
+
+![image](https://github.com/AmoInternet/amomusic/assets/146347843/e0691129-121b-452f-9e0c-27783295b403)
